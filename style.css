@@ -1,0 +1,36 @@
+body{
+  display: flex;
+  
+    margin: 50%;
+    background-size: 100% 100%;    
+    background-color: #868e96;
+  }
+  img{
+    margin-right: 90%;
+    
+    width: 500px;
+    height: 500px;
+  }
+   th,td{ 
+    
+    color: rgb(14, 9, 2);
+    background-color: rgb(189, 182, 182);
+    font-size: larger;
+    padding: 20px;
+    
+}
+table{
+  width: 100%;
+}
+.signup{
+  font-size: larger;
+
+}
+a{
+  font-weight: bold;
+}
+  
+.formReg{
+  margin: 50%;
+  text-align: center;
+}
